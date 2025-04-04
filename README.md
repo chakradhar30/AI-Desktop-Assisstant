@@ -1,4 +1,4 @@
-# AI-Desktop-Assisstant
+# AI-Desktop-Assistant
 
 A fully functional voice-based AI assistant designed to perform intelligent automation tasks, content generation, speech recognition, and real-time search — all through natural voice commands.
 
