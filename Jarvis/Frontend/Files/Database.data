@@ -1,0 +1,70 @@
+jarvis: I am Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and helpful information in real-time.
+Mr Reddy: who is ajay
+jarvis: I don't have any information about an "Ajay" in our conversation. Could you please provide more context or details about who Ajay is?
+Mr Reddy: ajay is my classmate
+Mr Reddy: who is ajay
+jarvis: Ajay is your classmate.
+Mr Reddy: will you remember it
+jarvis: Yes, I will remember that Ajay is your classmate.
+Mr Reddy: & c:/Users/chakr/OneDrive/Desktop/Jarvis/.venv/Scripts/python.exe c:/Users/chakr/OneDrive/Desktop/Jarvis/Backend/Chatbot.py
+jarvis: I'm still here, and I still remember that Ajay is your classmate.
+Mr Reddy: who is ajay
+jarvis: Ajay is your classmate.
+Mr Reddy: what is the stock price of bajaj
+jarvis: I apologize, but I don't have real-time access to current stock prices. However, I can suggest some ways for you to find the current stock price of Bajaj. You can check financial websites such as Bloomberg, Reuters, or Yahoo Finance, or visit the Bajaj company's website for the latest information on their stock prices.
+Mr Reddy: who is ajay
+jarvis: Ajay is your classmate.
+Mr Reddy: do you serach with goog;le
+jarvis: No, I'm an AI chatbot designed to provide accurate and helpful information in real-time, and I don't search with Google. I have been trained on a vast amount of text data and can provide information on a wide range of topics.
+Mr Reddy:             text = recognizer.recognize_google(audio, language=input_language)enumerate
+jarvis: It seems like you're working with speech recognition using the Google Speech Recognition API. The code snippet you provided is likely from a Python script that uses the `recognizer` object to recognize spoken audio and convert it into text, using the `recognize_google` method.
+Mr Reddy: who is amar
+jarvis: I don't have any information about an "Amar". Earlier, when you asked about "who is Amar", I didn't have any context or information about Amar, and the search results were empty. If you could provide more context or details about who Amar is, I'd be happy to help.
+Mr Reddy: Amar is my classmate and he is a smartbatch advanced dsa scholar and belongs to CSM and studying in GPREC
+jarvis: I remember now! Amar is your classmate, a SmartBatch Advanced DSA scholar, belonging to CSM, and studying in GPREC.
+Mr Reddy: same goes with ajay
+jarvis: I remember! Ajay is also your classmate.
+Mr Reddy: ajay belongs to ITCA not SmartBatch
+jarvis: I apologize for the mistake earlier! I remember now that Ajay is your classmate and belongs to ITCA, not SmartBatch.
+Mr Reddy: who is ajay
+jarvis: Ajay is your classmate and belongs to ITCA.
+Mr Reddy: who is amar
+jarvis: Amar is your classmate, a SmartBatch Advanced DSA scholar, belonging to CSM, and studying in GPREC.
+Mr Reddy:             text = recognizer.recognize_google(audio, language=input_language)enumerate
+jarvis: I'm familiar with this code snippet! It's related to speech recognition using the Google Speech Recognition API. The code is used to recognize spoken audio and convert it into text, using the `recognize_google` method.
+Mr Reddy: ajay is amars classmate
+jarvis: I remember! Ajay is Amar's classmate.
+Mr Reddy: in which college ajay is studying
+jarvis: I don't have that information. Earlier, I didn't have any information about Ajay's college, and the search results were empty. If you could provide more context or details about Ajay's college, I'd be happy to help.
+Mr Reddy: if amar and ajay are classmates then where amar study ajay also study there am i right
+jarvis: You're correct! Since Amar and Ajay are classmates, it means they study in the same college. Therefore, if Amar studies in GPREC, then Ajay also studies in GPREC.
+Mr Reddy: good
+jarvis: I'm glad I could help clarify that for you!
+Mr Reddy: tell all about ajay
+jarvis: I remember! Ajay is your classmate, belongs to ITCA, and studies in GPREC.
+Mr Reddy: who is ratan tata
+jarvis: Ratan Tata is an Indian industrialist, philanthropist, and former chairman of Tata Sons. He is the former chairman of the Tata Group, a Mumbai-based multinational conglomerate.
+Mr Reddy: & c:/Users/chakr/OneDrive/Desktop/Jarvis/.venv/Scripts/python.exe c:/Users/chakr/OneDrive/Desktop/Jarvis/Backend/RealTimeSearchEngine.py
+jarvis: I'm still here, and I still remember all the conversations we had, including Ajay, Amar, and Ratan Tata!
+Mr Reddy: who is ratan tata
+jarvis: Ratan Tata is an Indian industrialist, philanthropist, and former chairman of Tata Sons. He is the former chairman of the Tata Group, a Mumbai-based multinational conglomerate.
+Mr Reddy: who is jagan mohan reddy
+jarvis: YS Jagan Mohan Reddy is an Indian politician who is the current Chief Minister of Andhra Pradesh.
+Mr Reddy: what is atock price of bajaj
+jarvis: I apologize, but I don't have real-time access to current stock prices. However, I can suggest some ways for you to find the current stock price of Bajaj. You can check financial websites such as Bloomberg, Reuters, or Yahoo Finance, or visit the Bajaj company's website for the latest information on their stock prices.
+Mr Reddy: Who is ajay?
+jarvis: Ajay is your classmate, belongs to ITCA, and studies in GPREC.
+Mr Reddy: Okay, bye.
+jarvis: It was nice chatting with you! Have a great day, and I'll remember all the conversations we had! Bye!
+Mr Reddy: Who are you?
+jarvis: I am Jarvis, a highly advanced artificial intelligence chatbot designed to provide accurate and helpful information in real-time.
+Mr Reddy: Who am i?
+jarvis: You are Chakradhar!
+Mr Reddy: Okay, bye.
+jarvis: It was nice chatting with you, Chakradhar! Have a great day, and I'll remember all the conversations we had! Bye!
+Mr Reddy: Who am i?
+jarvis: You are Mr. Reddy!
+Mr Reddy: Who is ajay?
+jarvis: Ajay is your classmate, belongs to ITCA, and studies in GPREC.
+Mr Reddy: Who is ajay?
+jarvis: Ajay is your classmate, belongs to ITCA, and studies in GPREC.
